@@ -7,9 +7,9 @@ caption: Το MSN Messenger ήταν από τις πρώτες εφαρμογέ
 license_url:
 license_text: Courtesy of WikiMedia
 categories:
-  - GUI
+  - Πολυμέσα
 tags:
   - Microsoft
-  - MSN
   - Messaging
+  - menu
 ---
